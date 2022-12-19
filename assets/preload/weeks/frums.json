@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Nisemono",
+			"no",
+			[
+				206,
+				93,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Frums",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		20,
+		20,
+		20
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

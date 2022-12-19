@@ -1,0 +1,1 @@
+Options > Graphics > Shader (false) / Lowquality (true)
