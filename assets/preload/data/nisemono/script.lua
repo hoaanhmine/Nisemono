@@ -87,7 +87,7 @@ function onCreate()
         setProperty('hexa.scale.x',2)
         setProperty('hexa.scale.y',2)
 
-        makeLuaSprite('hexa2','Nisemono/hexagonBlur',615,330)
+        makeLuaSprite('hexa2','Nisemono/hexagonblur',615,330)
         addLuaSprite('hexa2',true)
         setProperty('hexa2.alpha',0)
         doTweenAngle('hexaAngles','hexa2',-900000,9000)
